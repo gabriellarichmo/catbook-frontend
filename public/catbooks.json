@@ -1,0 +1,21 @@
+{
+  "catbooks": [
+    {
+      "id": 1,
+      "title": "January 2024",
+      "photos": [
+        {"id": 1, "image": "/photos/IMG_7902.jpeg"},
+        {"id": 2, "image": "/photos/IMG_7874.jpeg"},
+        {"id": 3, "image": "/photos/IMG_7813.jpeg"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "February 2024",
+      "photos": [
+        {"id": 4, "image": "/photos/IMG_7819.jpeg"}, 
+        {"id": 5, "image": "/photos/IMG_7821.jpeg"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "name": "Gabriella Richmond",
+      "bio": "Cat lover, Software Engineer, and avid crafter.",
+      "location": "Eureka, CA",
+      "profilePicture": "/photos/IMG_7711.jpeg",
+      "hobbies": ["Coding", "Scrapbooking", "Hiking"]
+    }
+  ]
+}
